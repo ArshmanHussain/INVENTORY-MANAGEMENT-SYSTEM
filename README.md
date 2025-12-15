@@ -61,7 +61,7 @@ To run this project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/inventory-management-system.git
+   git clone https://github.com/ArshmanHussain/INVENTORY-MANAGEMENT-SYSTEM.git
    cd inventory-management-system
    ```
 
